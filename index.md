@@ -1,1 +1,1 @@
-# |CY OOTS Integration Guide
+# CY OOTS Integration Guide
